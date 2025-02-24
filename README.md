@@ -1,2 +1,1 @@
-# Major Project LY-AIEC1 Group1
- 
+# Real-Time Video Surveillance
